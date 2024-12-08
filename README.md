@@ -1,5 +1,6 @@
 Watchug 1.0.3 streaming movies platform is for sale, and can be purchased through discord for now! 
 
+Basically i've builded whole system, continue watching, request movies, report system, everything is reworked, and fully functional front & backend!
 Discord: saltybureksmesom
 
 
